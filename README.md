@@ -32,7 +32,7 @@
 
 * Tracks inventory and assets.
 * Built in Issue Templates.
-* Issue labels for availabilty and location.
+* Issue labels for availability and location.
 * Project boards.
 * All data is backed up to the cloud.
 * Built on GitHub's popular platform.
@@ -42,13 +42,13 @@
 
 To create your own inventory or asset tracker based off this template, either [fork](https://github.com/Dog-Face-Development/inventory-tracking/fork) this repository or [generate a new repository](https://github.com/Dog-Face-Development/inventory-tracking/generate) from this repository. Then, follow these steps to make the tracker your own:
 
-1. Navigate to the `.github/ISSUE_TEMPLATE/` folder and edit the issue template names to the different types of items you would like to track. If neccesary, create more issue templates for each catergory of item.
-2. Edit the issue template headers with the respective **issue names**, **descriptions**, **titles**, and **automatically added labels** for each catergory.
+1. Navigate to the `.github/ISSUE_TEMPLATE/` folder and edit the issue template names to the different types of items you would like to track. If necessary, create more issue templates for each category of item.
+2. Edit the issue template headers with the respective **issue names**, **descriptions**, **titles**, and **automatically added labels** for each category.
 3. Edit the issue template table with what kind of data should be stored for each item. In this template, this data is stored in a key-value pair, with the value placed between [backticks](https://en.wikipedia.org/wiki/Backtick).
-4. Repeat the above steps for how ever many catergories are needed to be tracked.
-5. Navigate to the Issues page, and click on the **Labels** button. Add new labels for the **availabilty levels** and **locations** that should be tracked. It is recommended to add either "availibility" or "location" in the description box to reduce confusion.
-6. Create a new Issue for each inventory item or asset, using the specific catergory template.
-7. Create a Project in **Table** view, and sort the items by their location and availabilty labels, much like a spreadsheet.
+4. Repeat the above steps for how ever many categories are needed to be tracked.
+5. Navigate to the Issues page, and click on the **Labels** button. Add new labels for the **availability levels** and **locations** that should be tracked. It is recommended to add either "availability" or "location" in the description box to reduce confusion.
+6. Create a new Issue for each inventory item or asset, using the specific category template.
+7. Create a Project in **Table** view, and sort the items by their location and availability labels, much like a spreadsheet.
 8. Finally, edit this `README` and the `CONTRIBUTING` document to help your team add items to the tracker.
 
 ## Support
