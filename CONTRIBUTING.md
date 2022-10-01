@@ -6,7 +6,7 @@ The following is a set of guidelines for contributing to the inventory tracker.
 
 ### Do you want to add a new item?
 
-- **Ensure the item has not already been added** by searching on the roadmap under [Issues](%LINK%).
+- **Ensure the item has not already been added** by searching on the tracker under [Issues](%LINK%).
 - If there is not already an issue, decide whether the item should be either a [component](%LINK%) or a [accessory](%LINK%).
 - Fill in the table in the issue template with the related item information.
 - After submitting the issue, add availability and location labels.
