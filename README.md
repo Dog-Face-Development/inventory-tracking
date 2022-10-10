@@ -40,7 +40,7 @@
 
 ## How To Use
 
-To create your own inventory or asset tracker based off this template, either [fork](https://github.com/Dog-Face-Development/inventory-tracking/fork) this repository or [generate a new repository](https://github.com/Dog-Face-Development/inventory-tracking/generate) from this repository. Then, follow these steps to make the tracker your own:
+To create your own inventory or asset tracker based off this template, either [fork](https://github.com/Dog-Face-Development/inventory-tracking/fork) this repository or [generate a new repository](https://github.com/Dog-Face-Development/inventory-tracking/generate). Then, follow these steps to make the tracker your own:
 
 1. Navigate to the `.github/ISSUE_TEMPLATE/` folder and edit the issue template names to the different types of items you would like to track. If necessary, create more issue templates for each category of item.
 2. Edit the issue template headers with the respective **issue names**, **descriptions**, **titles**, and **automatically added labels** for each category.
